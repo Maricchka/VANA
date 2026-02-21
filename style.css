@@ -1,0 +1,185 @@
+body {
+    font-family: sans-serif;
+}
+
+ul {
+  font-size: 20px;
+  list-style: url(https://learn.logikaschool.com/uploads/student/3448707/699058cfdbdfb.png)
+}
+
+nav {
+  background-color: #DB8658;
+  display: flex;
+  
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 20px;
+    color: #B8724C;
+    margin: 60px;
+    padding: 10px;
+    border-radius: 15px;
+    background-color: #FFFFFF;
+    text-align: center;
+    float: right;
+}
+
+.logo {
+  width: 100px;
+  height: 100px;
+  margin: 18px;
+  padding: 5px;
+}
+
+.vesza {
+  width: 100px;
+  height: 120px;
+  margin: 18px;
+  padding: 5px;
+}
+
+.vana-title {
+    font-family: 'Rye', serif;
+    font-size: 64px;
+    letter-spacing: 2px;
+    color: #B8724C;
+    margin-bottom: 1px;
+    text-align: center;
+}
+
+.clothing-store {
+    font-family: 'Rubik Maps', cursive;
+    font-size: 36px;
+    letter-spacing: 2px;
+    color: #B8724C;
+    padding-top: 1px;
+    text-align: center;
+}
+
+.brend-odyagu {
+  color: #444242;
+}
+
+.foto-model {
+  display: block;
+  margin: 15px auto;
+}
+
+.perevagy {
+  background-color: #C99578;
+  display: flex;
+}
+
+.hogwarts {
+width: 280px;
+}
+
+.catalog-2 {
+  font-family: 'Rye', serif;
+  font-size: 64px;
+  letter-spacing: 2px;
+  color: #B8724C;
+  margin-bottom: 1px;
+  text-align: center;
+}
+
+.tovar {
+display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    width: 700px;
+    margin: 30px;
+}
+.perevagy2{
+  display: block;
+  margin: 20px;
+}
+li{
+  padding-top: 20px;
+}
+img{
+  width: 400px;
+  border-radius: 20px;
+}
+.catalog_tovariv{
+      display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+    gap:40px;
+}
+
+.tovar{
+    text-align:center;
+    width:40%;
+}
+
+.tovar img{
+    width:200px;
+    height:280px;
+   
+    border-radius:15px;
+    margin:10px 0;
+}
+
+.vidgyk{
+    width: 50px;
+}
+
+.vidgyk-4 {
+  font-family: 'Rye', serif;
+  font-size: 64px;
+  letter-spacing: 2px;
+  color: #B8724C;
+  margin-bottom: 1px;
+  text-align: center;
+}
+
+.reviews-section {
+  background-color: #c08463; 
+  padding: 50px 20px;
+  text-align: center;
+}
+
+.reviews-section h3 {
+  color: white;
+  margin-bottom: 30px;
+}
+
+.reviews {
+  display: flex;
+  justify-content: center;
+  gap: 20px; 
+  flex-wrap: wrap;
+}
+
+.review-card {
+  background: white;
+  padding: 30px;
+  border-radius: 40px; 
+  width: 300px;
+  text-align: center;
+}
+
+.vidgyk {
+  width: 80px;
+  height: 80px;
+  margin-bottom: 15px;
+}
+
+.review-card b {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.prada {
+  color: #444242;
+}
+
+footer {
+  background-color: #DB8658;
+  color: #FFFFFF;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
